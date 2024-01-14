@@ -1,6 +1,6 @@
 # 🚀 Sakar Paudel's Tech Odyssey 🌌
 
-![Space Background](https://pin.it/6VT6odIbo)
+![Space Background](https://media.discordapp.net/attachments/1109488146737025034/1196065710418448515/profilephoto.gif.gif?ex=65b645ff&is=65a3d0ff&hm=0a7e8aca0ae07208984ec6ccce89f90a040af9d6da25b18b194ef633d4081457&=&width=1387&height=312)
 
 ## 👋 Greetings, Trailblazing Tech Explorers!
 
