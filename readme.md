@@ -29,11 +29,8 @@
   - Delved into the world of Data Annotations
 
 ## 📧 Connect with the Cosmos
-- **Interstellar Inbox:** 
-<details>
-<summary>Click to reveal contact info</summary>
- [sendtosakar@gmail.com](mailto:sendtosakar@gmail.com)
- </details>
+- **Interstellar Inbox:** [sendtosakar@gmail.com](mailto:sendtosakar@gmail.com)
+
 - **Galactic Hotline:** [+977 9841932517](tel:+9779841932517)
 
 
