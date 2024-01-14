@@ -51,7 +51,7 @@
 
 - **Galactic Hotline:** [+977 9841932517](tel:+9779841932517)
 
-- **Download CV:** [Sakar's CV](bit.ly/sakar_resume)
+- **View CV:** [Sakar's CV](https://drive.google.com/drive/u/1/folders/1s-dOR8MhiJNzy-hbrgEW7aNSznPsq4-3)
 
 
 
