@@ -35,6 +35,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sakarhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakarhere" height="30" width="40" /></a>
 <a href="https://fb.com/sakar.paudel.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakar.paudel.9" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/SsfbqErhnR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/SsfbqErhnR" height="30" width="40" /></a>
 </p>
 
 ## 📚 Academic Odyssey
