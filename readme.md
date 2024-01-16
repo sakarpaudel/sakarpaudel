@@ -31,6 +31,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakarpaudel&" alt="sakarpaudel" /></p>
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sakarhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakarhere" height="30" width="40" /></a>
+<a href="https://fb.com/sakar.paudel.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakar.paudel.9" height="30" width="40" /></a>
+</p>
+
 ## 📚 Academic Odyssey
 - **Bachelor's Voyage:** Navigating the cosmic waves of Computer Engineering at Khwopa College of Engineering, Tribhuvan University, Nepal (2018-Ongoing)
   - **Location:** Libali, Bhaktapur-8, Nepal
