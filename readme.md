@@ -55,8 +55,6 @@
   - Explored various concepts of Data Handling
   - Delved into the world of Data Annotations
 
-#Sure, here is the modified version with clickable links:
-
 ## 📧 Connect with the Cosmos
 - **Interstellar Inbox:** [sendtosakar@gmail.com](mailto:sendtosakar@gmail.com)
 
