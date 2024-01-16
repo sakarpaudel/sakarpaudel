@@ -46,25 +46,10 @@
   - Explored various concepts of Data Handling
   - Delved into the world of Data Annotations
 
+#Sure, here is the modified version with clickable links:
+
 ## 📧 Connect with the Cosmos
-- **Interstellar Inbox:** <span id="email">Click to reveal</span>
-
-- **Galactic Hotline:** <span id="phone">Click to reveal</span>
-
-<script>
-document.getElementById('email').addEventListener('click', function() {
-  this.innerHTML = 'sendtosakar@gmail.com';
-  this.removeAttribute('id');
-  this.removeAttribute('onclick');
-});
-
-document.getElementById('phone').addEventListener('click', function() {
-  this.innerHTML = '+977 9841932517';
-  this.removeAttribute('id');
-  this.removeAttribute('onclick');
-});
-</script>
-
-
+- **Interstellar Inbox:** [sendtosakar@gmail.com](mailto:sendtosakar@gmail.com)
+- **Galactic Hotline:** [+977 9841932517](tel:+9779841932517)
 
 Embark on this electrifying Tech Odyssey with me. Feel free to explore, connect, or send a cosmic question my way. Together, let's carve a destiny in the ever-evolving universe of technology! 🌌🚀✨
