@@ -47,12 +47,23 @@
   - Delved into the world of Data Annotations
 
 ## 📧 Connect with the Cosmos
-- **Interstellar Inbox:** [sendtosakar@gmail.com](mailto:sendtosakar@gmail.com)
+- **Interstellar Inbox:** <span id="email">Click to reveal</span>
 
-- **Galactic Hotline:** [+977 9841932517](tel:+9779841932517)
+- **Galactic Hotline:** <span id="phone">Click to reveal</span>
 
-- **View CV:** [Sakar's CV](https://drive.google.com/drive/u/1/folders/1s-dOR8MhiJNzy-hbrgEW7aNSznPsq4-3)
+<script>
+document.getElementById('email').addEventListener('click', function() {
+  this.innerHTML = 'sendtosakar@gmail.com';
+  this.removeAttribute('id');
+  this.removeAttribute('onclick');
+});
 
+document.getElementById('phone').addEventListener('click', function() {
+  this.innerHTML = '+977 9841932517';
+  this.removeAttribute('id');
+  this.removeAttribute('onclick');
+});
+</script>
 
 
 
