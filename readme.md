@@ -7,6 +7,7 @@
 🚀 Welcome aboard my digital spacecraft! I'm Sakar Paudel, an intrepid Computer Engineering voyager from Bhaktapur, Nepal. Embark with me on an exhilarating Tech Odyssey through the vast galaxies of innovation and creativity, where projects come to life in a celestial dance of logic and imagination.
 
 ## 💻 Skills Constellation
+
 - **Languages Warp:** Python, C, C++, HTML, CSS, JavaScript
 - **Frameworks Nebula:** React.js, Flutter
 - **Library Constellation:** NumPy, Pandas, Matplotlib, Scikit-learn, Beautiful Soup, OpenCV, Mediapipe
@@ -30,7 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakarpaudel&" alt="sakarpaudel" /></p>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sakar_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakar_here" height="30" width="40" /></a>
@@ -41,21 +41,26 @@
 <p align="left"> <a href="https://twitter.com/sakar_here" target="blank"><img src="https://img.shields.io/twitter/follow/sakar_here?logo=twitter&style=for-the-badge" alt="sakar_here" /></a> </p>
 
 ## 📚 Academic Odyssey
+
 - **Bachelor's Voyage:** Navigating the cosmic waves of Computer Engineering at Khwopa College of Engineering, Tribhuvan University, Nepal (2018-Ongoing)
+
   - **Location:** Libali, Bhaktapur-8, Nepal
 
 - **High School Odyssey:** Completing the mission at Nepal Police School, Sanga, Kavre (2016-2018)
+
   - **Board:** National Examinations Board (NEB)
 
 - **Primary Galactic Ventures:** Initiating the journey at The Rising Village Secondary School, Dhading, Nepal (2004-2016)
   - **Board:** Nepal SLC Board
 
 ## 🚀 Professional Stargazing
+
 - **Data Specialist:** Cloudfactory Nepal (September 2023 – Present)
   - Explored various concepts of Data Handling
   - Delved into the world of Data Annotations
 
 ## 📧 Connect with the Cosmos
+
 - **Interstellar Inbox:** [sendtosakar@gmail.com](mailto:sendtosakar@gmail.com)
 
 Embark on this electrifying Tech Odyssey with me. Feel free to explore, connect, or send a cosmic question my way. Together, let's carve a destiny in the ever-evolving universe of technology! 🌌🚀✨
