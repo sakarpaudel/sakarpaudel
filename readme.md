@@ -57,7 +57,7 @@
 
 ## 🚀 Professional Stargazing
 
-- **Data Specialist:** Cloudfactory Nepal (September 2023 – Present)
+- **Data Specialist:** Cloudfactory Nepal (September 2023 – January 2024)
   - Explored various concepts of Data Handling
   - Delved into the world of Data Annotations
 
