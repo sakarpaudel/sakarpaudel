@@ -8,12 +8,14 @@
 
 ## 💻 Skills Constellation
 
-- **Languages Warp:** Python, C, C++, HTML, CSS, JavaScript
-- **Frameworks Nebula:** React.js, Flutter
-- **Library Constellation:** NumPy, Pandas, Matplotlib, Scikit-learn, Beautiful Soup, OpenCV, Mediapipe
-- **Database Cosmos:** MySQL
-- **Dev Tools Arsenal:** Visual Studio Code, Android Studio, Sublime Text Editor, Version Control with Git
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+* **Languages Warp:** Python, C, C++, C#, HTML, CSS, JavaScript, Dotnet, Lua, Dart
+* **Frameworks Nebula:** React.js, Flutter, FiveM Lua, Node.js, QBox, QBCore
+* **Library Constellation:** NumPy, Pandas, Matplotlib, Scikit-learn, Beautiful Soup, OpenCV, Mediapipe, Flutter Packages
+* **Database Cosmos:** MySQL
+* **Dev Tools Arsenal:** Visual Studio Code, Android Studio, Sublime Text Editor, Visual Studio, Version Control with Git
+* **Computer Systems Orbit:** CI/CD Pipelines, Technical Support, Hardware Knowledge, Network Troubleshooting, Software Installation & Configuration, System Administration, Data Backup & Recovery
+
+<h3 align="center">A passionate tech enthusiast from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakarpaudel&label=Profile%20views&color=0e75b6&style=flat" alt="sakarpaudel" /> </p>
 
