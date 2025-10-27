@@ -83,9 +83,30 @@
 
 ## 🚀 Professional Stargazing
 
-- **Data Specialist:** Cloudfactory Nepal (September 2023 – January 2024)
-  - Explored various concepts of Data Handling
-  - Delved into the world of Data Annotations
+* **Mobile Application Developer:** Waft Technology Pvt. Ltd. (April 2025 – Present)
+
+  * Building and maintaining Flutter applications
+  * Collaborating with cross-functional teams
+  * Driving innovation in existing mobile solutions
+
+* **Fullstack Developer:** Kantipur Holidays Pvt. Ltd. (May 2024 – December 2024)
+
+  * Developed web applications using .NET and Vue.js
+  * Integrated new features and optimized system performance
+  * Enhanced user experience through responsive design and backend refinement
+
+* **Mobile Team Intern:** Vanilla Transtechnor (January 2024 – April 2024)
+
+  * Assisted in Flutter app development and feature implementation
+  * Enhanced application stability and code efficiency
+  * Gained practical insights into mobile UI/UX patterns
+
+* **Data Specialist:** Cloudfactory Nepal (September 2023 – January 2024)
+
+  * Processed and annotated datasets with precision
+  * Applied quality control techniques for data validation
+  * Optimized workflow efficiency through peer training and review
+
 
 ## 📧 Connect with the Cosmos
 
