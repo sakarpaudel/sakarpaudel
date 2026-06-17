@@ -70,7 +70,7 @@
 
 ## 📚 Academic Odyssey
 
-- **Bachelor's Voyage:** Navigating the cosmic waves of Computer Engineering at Khwopa College of Engineering, Tribhuvan University, Nepal (2018-Ongoing)
+- **Bachelor's Voyage:** Navigating the cosmic waves of Computer Engineering at Khwopa College of Engineering, Tribhuvan University, Nepal (2018-2023)
 
   - **Location:** Libali, Bhaktapur-8, Nepal
 
