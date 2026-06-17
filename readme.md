@@ -82,8 +82,13 @@
   - **Board:** Nepal SLC Board
 
 ## 🚀 Professional Stargazing
+* **Mobile Application Developer:** Selora Tech Pvt. Ltd. (January 2026 – Present)
 
-* **Mobile Application Developer:** Waft Technology Pvt. Ltd. (April 2025 – Present)
+  * Building and maintaining Flutter applications
+  * Collaborating with cross-functional teams
+  * Core Flutter features — native camera module, facemesh filters, biometric security,IVS realtime Livestreaming and performance fixes — across a production social app.
+    
+* **Mobile Application Developer:** Waft Technology Pvt. Ltd. (April 2025 – December 2025)
 
   * Building and maintaining Flutter applications
   * Collaborating with cross-functional teams
